@@ -1,0 +1,14 @@
+{
+  "Sign2": {
+  "userName": "beliztest",
+  "password": "deneme123",
+  "userIdentificationType": 0,
+  "fingerprint": "00000000-0000-0000-0000-000000000000",
+  "activationToken": "00000000-0000-0000-0000-000000000000",
+  "isPrepaidUser": true,
+  "deviceIdentifier": "Testinium-QA",
+  "userAgent": "testinium",
+  "ipAddress": "217.77.104.20",
+  "appId": "B3FC4148-E184-450B-95EE-25D7CDE63218"
+}
+  }
